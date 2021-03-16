@@ -1,0 +1,43 @@
+[{
+        "id": 1,
+        "name": "Nguyễn Hữu Hùng",
+        "tel": "0123456789",
+        "role": 1
+    },
+    {
+        "id": 2,
+        "name": "Nguyễn Văn Toản",
+        "tel": "0123543673",
+        "role": 2
+    },
+    {
+        "id": 3,
+        "name": "Nguyễn Trần C",
+        "tel": "0342578456",
+        "role": 2
+    },
+    {
+        "id": 4,
+        "name": "Nguyễn Minh D",
+        "tel": "0853246734",
+        "role": 3
+    },
+    {
+        "id": 5,
+        "name": "Nguyễn Văn B",
+        "tel": "0153424123",
+        "role": 1
+    },
+    {
+        "id": 6,
+        "name": "Nguyễn Quang H",
+        "tel": "0124123312",
+        "role": 2
+    },
+    {
+        "id": 7,
+        "name": "Nguyễn Long G",
+        "tel": "0298376514",
+        "role": 3
+    }
+]
